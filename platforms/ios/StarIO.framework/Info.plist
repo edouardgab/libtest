@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>English</string>
+  <key>CFBundleExecutable</key>
+  <string>StarIO</string>  // replace this name with your framework name
+  <key>CFBundleIdentifier</key>
+  <string>com.stario.framework.ios</string>  // this can be any unique reverse domain identifier
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>StarIO</string>  // replace this name with your framework name
+  <key>CFBundlePackageType</key>
+  <string>FMWK</string>
+  <key>UISupportedExternalAccessoryProtocols</key>
+  <array>
+    <string>jp.star-m.starpro</string>
+  </array>
+  <key>NSBluetoothPeripheralUsageDescription</key>
+  <string>For printing</string>
+</dict>
+</plist>

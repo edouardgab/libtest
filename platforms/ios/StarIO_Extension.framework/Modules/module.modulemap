@@ -1,0 +1,6 @@
+framework module StarIoExtManager {
+  umbrella header "StarIoExtManager.h"
+
+  export *
+  module * { export * }
+}

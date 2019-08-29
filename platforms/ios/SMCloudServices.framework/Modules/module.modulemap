@@ -1,0 +1,6 @@
+framework module SMCloudServices {
+  umbrella header "SMCloudServices.h"
+
+  export *
+  module * { export * }
+}
